@@ -122,6 +122,10 @@ ul.skills {
   background: #ECBF66;
 }
 
+.experience {
+  margin-top: 50px;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
@@ -183,6 +187,10 @@ a.social:hover {
 
   header {
     min-height: 470px;
+  }
+
+  .short-header {
+    min-height: 150px;
   }
 
   .nav {
