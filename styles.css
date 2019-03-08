@@ -18,7 +18,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #f7f5f0;
 }
 
 /* Section Styles */
@@ -212,5 +212,4 @@ a.social:hover {
     max-width: 1200px;
     margin: 40px auto;
   }
-
 }
